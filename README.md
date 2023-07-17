@@ -4,3 +4,9 @@ Due to rapid increase in data, vulnerabilities are a boom, it's time to serve th
 
 Dataset: kaggle datasets download -d sid321axn/malicious-urls-dataset
 
+How to identify it is a malware url?
+1. which redirects the user to fraudulent or malicious website.
+2. use of typosquatting
+3. incomplete website content
+4. random pop-ups and ads
+5. harmful,racist,provoking content which is far from reality
